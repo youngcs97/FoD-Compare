@@ -61,9 +61,9 @@ import xlwt
 
 Use pip to install:
 ```console
-python3 -m pip install xlwt
-python3 -m pip install xlwt
-python3 -m pip install xlwt
+python3 -m pip install json
+python3 -m pip install requests
+python3 -m pip install csv
 python3 -m pip install xlwt
 ```
 
