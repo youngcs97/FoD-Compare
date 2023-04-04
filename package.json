@@ -1,0 +1,14 @@
+{
+  "name": "fortify-on-demand",
+  "version": "0.0.0",
+  "description": "Fortify-on-Demand",
+  "main": "app.js",
+  "author": {
+    "name": "Chris Young"
+  },
+  "dependencies": {
+    "excel4node": "^1.8.1",
+    "https-proxy-agent": "^2.2.4",
+    "request": "^2.88.0"
+  }
+}
